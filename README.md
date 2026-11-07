@@ -29,16 +29,16 @@ HTML5, CSS3, JavaScript, Local Storage, Visual Studio Code.
 
 ## Group Members
 
-Ola Janlove
-Pablo Aron
-Pascua Kristell
-Pataueg Ebenezer
-Rabe Mhikho
-Ruma Jonah
-Saet Jerome
-Sagauinit Ivan
-Seguancia Jeremy
-Tandoc Carlos Joaquin
+- Ola Janlove
+- Pablo Aron
+- Pascua Kristell
+- Pataueg Ebenezer
+- Rabe Mhikho
+- Ruma Jonah
+- Saet Jerome
+- Sagauinit Ivan
+- Seguancia Jeremy
+- Tandoc Carlos Joaquin
 
 
 ## Individual Responsibilities
