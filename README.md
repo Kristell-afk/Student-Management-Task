@@ -28,7 +28,18 @@ HTML5, CSS3, JavaScript, Local Storage, Visual Studio Code.
 4. Add tasks using the New Task button.
 
 ## Group Members
-Add all group members here.
+
+Ola Janlove
+Pablo Aron
+Pascua Kristell
+Pataueg Ebenezer
+Rabe Mhikho
+Ruma Jonah
+Saet Jerome
+Sagauinit Ivan
+Seguancia Jeremy
+Tandoc Carlos Joaquin
+
 
 ## Individual Responsibilities
 List each member's management responsibility and actual coding contribution.
